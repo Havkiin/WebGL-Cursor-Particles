@@ -1,6 +1,6 @@
 # Cursor Particles
 
-![Demo](Demo.gif)
+![Demo](public/Demo.gif)
 
 Particles follow the cursor around the web page.
 
